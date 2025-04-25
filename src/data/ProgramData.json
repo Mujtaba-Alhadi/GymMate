@@ -1,0 +1,93 @@
+[
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Beginner Full Body Workout",
+      "description": "A perfect start for newcomers, focusing on full-body strength and mobility with minimal equipment.",
+      "trainer": "Alex Carter",
+      "rating": 4.8,
+      "reviews": 320,
+      "price": "$29.99"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Advanced HIIT Bootcamp",
+      "description": "Push your limits with high-intensity interval training designed to burn fat and boost endurance.",
+      "trainer": "Rachel Gomez",
+      "rating": 4.9,
+      "reviews": 540,
+      "price": "$39.99"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Yoga for Flexibility & Stress Relief",
+      "description": "Calm your mind and stretch your body with guided yoga sessions for all skill levels.",
+      "trainer": "Priya Mehta",
+      "rating": 4.7,
+      "reviews": 210,
+      "price": "$19.99"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Strength Training 101",
+      "description": "Master the fundamentals of strength training with clear instruction and progression planning.",
+      "trainer": "Marcus Lee",
+      "rating": 4.9,
+      "reviews": 390,
+      "price": "$34.99"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Posture & Core Stability Program",
+      "description": "Improve your posture, reduce back pain, and build a strong core foundation.",
+      "trainer": "Lina Rios",
+      "rating": 4.8,
+      "reviews": 275,
+      "price": "$22.99"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Meal Planning for Fat Loss",
+      "description": "Learn to build sustainable, fat-burning meal plans tailored to your lifestyle and preferences.",
+      "trainer": "Dr. Kevin Holt",
+      "rating": 4.7,
+      "reviews": 195,
+      "price": "$26.50"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Bodyweight Bootcamp",
+      "description": "Crush your fitness goals using only your bodyweight — anytime, anywhere.",
+      "trainer": "Andre Silva",
+      "rating": 4.6,
+      "reviews": 312,
+      "price": "$19.95"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Ultimate Muscle Building Plan",
+      "description": "A progressive hypertrophy program focused on gaining lean muscle mass efficiently.",
+      "trainer": "Hannah West",
+      "rating": 4.9,
+      "reviews": 420,
+      "price": "$37.00"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Boxing Fitness Fundamentals",
+      "description": "Learn boxing techniques while burning fat and boosting cardio fitness.",
+      "trainer": "Rico Thompson",
+      "rating": 4.9,
+      "reviews": 295,
+      "price": "$29.99"
+    },
+    {
+      "thumbnail": "/program-1.jpg",
+      "title": "Powerlifting Program for Beginners",
+      "description": "Start your powerlifting journey safely and efficiently with expert coaching.",
+      "trainer": "Melanie Cross",
+      "rating": 4.9,
+      "reviews": 410,
+      "price": "$35.00"
+    }
+  ]
+  
