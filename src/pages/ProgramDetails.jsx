@@ -76,7 +76,7 @@ function ProgramDetails() {
             <div className="flex items-center gap-2 mt-3 text-xs text-gray-500 lg:gap-4 lg:mt-5 lg:text-md">
               <div className="flex items-center gap-1">
                 <img
-                  src="../../public/star-solid.svg"
+                  src="/star-solid.svg"
                   alt="star"
                   className="w-4"
                 />
