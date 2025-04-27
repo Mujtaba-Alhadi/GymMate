@@ -1,93 +1,132 @@
 [
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Beginner Full Body Workout",
-      "description": "A perfect start for newcomers, focusing on full-body strength and mobility with minimal equipment.",
-      "trainer": "Alex Carter",
-      "rating": 4.8,
-      "reviews": 320,
-      "price": "$29.99"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Advanced HIIT Bootcamp",
-      "description": "Push your limits with high-intensity interval training designed to burn fat and boost endurance.",
-      "trainer": "Rachel Gomez",
-      "rating": 4.9,
-      "reviews": 540,
-      "price": "$39.99"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Yoga for Flexibility & Stress Relief",
-      "description": "Calm your mind and stretch your body with guided yoga sessions for all skill levels.",
-      "trainer": "Priya Mehta",
-      "rating": 4.7,
-      "reviews": 210,
-      "price": "$19.99"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Strength Training 101",
-      "description": "Master the fundamentals of strength training with clear instruction and progression planning.",
-      "trainer": "Marcus Lee",
-      "rating": 4.9,
-      "reviews": 390,
-      "price": "$34.99"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Posture & Core Stability Program",
-      "description": "Improve your posture, reduce back pain, and build a strong core foundation.",
-      "trainer": "Lina Rios",
-      "rating": 4.8,
-      "reviews": 275,
-      "price": "$22.99"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Meal Planning for Fat Loss",
-      "description": "Learn to build sustainable, fat-burning meal plans tailored to your lifestyle and preferences.",
-      "trainer": "Dr. Kevin Holt",
-      "rating": 4.7,
-      "reviews": 195,
-      "price": "$26.50"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Bodyweight Bootcamp",
-      "description": "Crush your fitness goals using only your bodyweight — anytime, anywhere.",
-      "trainer": "Andre Silva",
-      "rating": 4.6,
-      "reviews": 312,
-      "price": "$19.95"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Ultimate Muscle Building Plan",
-      "description": "A progressive hypertrophy program focused on gaining lean muscle mass efficiently.",
-      "trainer": "Hannah West",
-      "rating": 4.9,
-      "reviews": 420,
-      "price": "$37.00"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Boxing Fitness Fundamentals",
-      "description": "Learn boxing techniques while burning fat and boosting cardio fitness.",
-      "trainer": "Rico Thompson",
-      "rating": 4.9,
-      "reviews": 295,
-      "price": "$29.99"
-    },
-    {
-      "thumbnail": "/program-1.jpg",
-      "title": "Powerlifting Program for Beginners",
-      "description": "Start your powerlifting journey safely and efficiently with expert coaching.",
-      "trainer": "Melanie Cross",
-      "rating": 4.9,
-      "reviews": 410,
-      "price": "$35.00"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "thumbnail": "/program-1.jpg",
+    "title": "Beginner Full Body Workout",
+    "description": "A perfect start for newcomers, focusing on full-body strength and mobility with minimal equipment.",
+    "trainer": "Alex Carter",
+    "rating": 4.8,
+    "reviews": 320,
+    "price": 29.99,
+    "duration": 6,
+    "lecturesNum": 18,
+    "detailedDescription": "This beginner-friendly program introduces full-body movements to build strength, improve flexibility, and enhance cardiovascular endurance. With a focus on bodyweight exercises and minimal equipment, participants will master foundational exercises that create a solid fitness base. Each session builds on the last, ensuring gradual progress without risk of injury."
+  },
+  {
+    "id": 2,
+    "thumbnail": "/program-1.jpg",
+    "title": "Advanced HIIT Bootcamp",
+    "description": "Push your limits with high-intensity interval training designed to burn fat and boost endurance.",
+    "trainer": "Rachel Gomez",
+    "rating": 4.9,
+    "reviews": 540,
+    "price": 39.99,
+    "duration": 8,
+    "lecturesNum": 24,
+    "detailedDescription": "The Advanced HIIT Bootcamp challenges even the most seasoned athletes with high-intensity circuits, plyometrics, and resistance training. This program combines cardio and strength in short, explosive intervals designed to maximize fat burn and build endurance. Expect diverse routines that keep your body guessing and your fitness steadily improving."
+  },
+  {
+    "id": 3,
+    "thumbnail": "/program-1.jpg",
+    "title": "Yoga for Flexibility & Stress Relief",
+    "description": "Calm your mind and stretch your body with guided yoga sessions for all skill levels.",
+    "trainer": "Priya Mehta",
+    "rating": 4.7,
+    "reviews": 210,
+    "price": 19.99,
+    "duration": 5,
+    "lecturesNum": 15,
+    "detailedDescription": "This course offers a calming journey through beginner to intermediate yoga practices focused on enhancing flexibility and relieving stress. Each module blends mindful breathing, gentle stretching, and basic meditation techniques. Perfect for those seeking both physical benefits and mental clarity through consistent, guided practice."
+  },
+  {
+    "id": 4,
+    "thumbnail": "/program-1.jpg",
+    "title": "Strength Training 101",
+    "description": "Master the fundamentals of strength training with clear instruction and progression planning.",
+    "trainer": "Marcus Lee",
+    "rating": 4.9,
+    "reviews": 390,
+    "price": 34.99,
+    "duration": 7,
+    "lecturesNum": 20,
+    "detailedDescription": "Strength Training 101 is a comprehensive course built for those wanting to lift safely and effectively. You'll learn proper form, essential strength-building exercises, progressive overload principles, and workout programming basics. The course emphasizes building sustainable habits to promote lifelong strength and injury prevention."
+  },
+  {
+    "id": 5,
+    "thumbnail": "/program-1.jpg",
+    "title": "Posture & Core Stability Program",
+    "description": "Improve your posture, reduce back pain, and build a strong core foundation.",
+    "trainer": "Lina Rios",
+    "rating": 4.8,
+    "reviews": 275,
+    "price": 22.99,
+    "duration": 4.5,
+    "lecturesNum": 12,
+    "detailedDescription": "A strong, stable core is the foundation for better posture, reduced back pain, and improved overall mobility. This program targets deep core muscles, glutes, and the postural chain through a blend of strength and stability drills. Suitable for all levels, it provides daily strategies to maintain healthy alignment both at rest and during movement."
+  },
+  {
+    "id": 6,
+    "thumbnail": "/program-1.jpg",
+    "title": "Meal Planning for Fat Loss",
+    "description": "Learn to build sustainable, fat-burning meal plans tailored to your lifestyle and preferences.",
+    "trainer": "Dr. Kevin Holt",
+    "rating": 4.7,
+    "reviews": 195,
+    "price": 26.50,
+    "duration": 3.5,
+    "lecturesNum": 10,
+    "detailedDescription": "Dr. Kevin Holt takes you through a detailed guide to building meal plans that promote fat loss without sacrificing nutrition or enjoyment. Covering calorie calculation, macronutrient balancing, grocery shopping strategies, and sample meal prep routines, this course arms you with everything needed for lasting results."
+  },
+  {
+    "id": 7,
+    "thumbnail": "/program-1.jpg",
+    "title": "Bodyweight Bootcamp",
+    "description": "Crush your fitness goals using only your bodyweight — anytime, anywhere.",
+    "trainer": "Andre Silva",
+    "rating": 4.6,
+    "reviews": 312,
+    "price": 19.95,
+    "duration": 5.5,
+    "lecturesNum": 16,
+    "detailedDescription": "No gym? No problem! The Bodyweight Bootcamp proves you don't need heavy equipment to transform your fitness. Through progressive bodyweight exercises — including pushups, squats, lunges, planks, and plyometric drills — you'll build strength, endurance, and agility using just your own body."
+  },
+  {
+    "id": 8,
+    "thumbnail": "/program-1.jpg",
+    "title": "Ultimate Muscle Building Plan",
+    "description": "A progressive hypertrophy program focused on gaining lean muscle mass efficiently.",
+    "trainer": "Hannah West",
+    "rating": 4.9,
+    "reviews": 420,
+    "price": 37.00,
+    "duration": 10,
+    "lecturesNum": 28,
+    "detailedDescription": "The Ultimate Muscle Building Plan is designed for intermediate to advanced trainees seeking maximum muscle growth. This science-backed program focuses on hypertrophy through compound and isolation movements, periodized training cycles, and progressive volume increases. Includes bonus modules on nutrition and recovery optimization."
+  },
+  {
+    "id": 9,
+    "thumbnail": "/program-1.jpg",
+    "title": "Boxing Fitness Fundamentals",
+    "description": "Learn boxing techniques while burning fat and boosting cardio fitness.",
+    "trainer": "Rico Thompson",
+    "rating": 4.9,
+    "reviews": 295,
+    "price": 29.99,
+    "duration": 6.5,
+    "lecturesNum": 18,
+    "detailedDescription": "Master boxing footwork, punching combinations, and conditioning drills while improving your cardiovascular health. This beginner-friendly course combines boxing fundamentals with high-intensity interval training (HIIT) to deliver a full-body workout that also builds self-defense skills and confidence."
+  },
+  {
+    "id": 10,
+    "thumbnail": "/program-1.jpg",
+    "title": "Powerlifting Program for Beginners",
+    "description": "Start your powerlifting journey safely and efficiently with expert coaching.",
+    "trainer": "Melanie Cross",
+    "rating": 4.9,
+    "reviews": 410,
+    "price": 35.00,
+    "duration": 9,
+    "lecturesNum": 22,
+    "detailedDescription": "This beginner powerlifting course teaches the foundational lifts: squat, deadlift, and bench press. Participants learn proper technique, accessory work, programming basics, and recovery strategies to safely build maximal strength. Ideal for newcomers seeking to enter competitive lifting or simply enhance personal performance."
+  }
+]
