@@ -19,7 +19,7 @@ function ProgramCards({ program }) {
         </a>
       </p>
       <div className="flex items-center gap-1 text-sm text-gray-500">
-        <img src="../../public/star-solid.svg" alt="star" className="w-4 h-4" />
+        <img src="/star-solid.svg" alt="star" className="w-4 h-4" />
         <span className="font-bold text-black">{program.rating}</span> ·{" "}
         <span>{program.reviews} reviews</span>
       </div>
